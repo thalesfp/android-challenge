@@ -29,6 +29,7 @@ A foto do mockup é meramente ilustrativa.
 O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
 
 O processo de Pull Request funciona da seguinte maneira:
+
 1. Candidato fará um fork desse repositório (não irá clonar direto!)
 2. Fará seu projeto nesse fork.
 3. Commitará e subirá as alterações para o SEU fork.
