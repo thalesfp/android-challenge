@@ -19,7 +19,7 @@ Criar um aplicativo para consultar a [API do Flickr](https://www.flickr.com/serv
 * Cache de imagens e da API. 
 * Desenvolvido no Android Studio
 * Uso de AndroidAnnotations
-* Exibir alguns comentários na tela de detalhes da foto
+* Exibir alguns comentários na tela de detalhes da foto (apenas listar, não precisa da parte de adicionar)
 
 ### **OBS** ###
 
