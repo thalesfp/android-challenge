@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/ivPhoto"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center_vertical" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/ivLoading"
+        android:src="@drawable/progress_animation"
+        android:scaleType="center"
+        android:layout_alignTop="@id/ivPhoto"
+        android:layout_alignBottom="@id/ivPhoto"
+        android:layout_alignLeft="@id/ivPhoto"
+        android:layout_alignRight="@id/ivPhoto"
+        android:layout_gravity="center_vertical" />
+
+</RelativeLayout>
